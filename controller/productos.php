@@ -1,9 +1,3 @@
-<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-<!-- * * Autor: Ashanty Lizeth Ceballos Pech                                     * *-->
-<!-- * * Descripción: Código donde se realiza el controlador de nuestra API REST * *-->
-<!-- * *              y se hacen las operaciones del CRUD.                       * *-->
-<!-- * * Fecha: 04/07/2022                                                       * *-->
-<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
 <?php
     //Encabezado para que PHP reconozca que se van a intercambiar archivos JSON
     header('Content-Type: application/json');

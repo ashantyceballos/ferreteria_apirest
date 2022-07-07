@@ -1,9 +1,3 @@
-<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-<!-- * * Autor: Ashanty Lizeth Ceballos Pech                                     * *-->
-<!-- * * Descripción: Código donde se establece la conexión de la BD usando      * *-->
-<!-- * *              fPDO.                                                      * *-->
-<!-- * * Fecha: 04/07/2022                                                       * *-->
-<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
 <?php
     //Clase para establecer la conexión de la BD usando PDO
     class Conectar{

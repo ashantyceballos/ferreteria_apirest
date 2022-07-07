@@ -1,9 +1,3 @@
-<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-<!-- * * Autor: Ashanty Lizeth Ceballos Pech                                     * *-->
-<!-- * * Descripción: Código donde se recuperan los productos des dela base de   * *-->
-<!-- * *              datos y se le agrega funciones correspondientes.           * *-->
-<!-- * * Fecha: 04/07/2022                                                       * *-->
-<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
 <?php
     //Archivo que contiene los querys necesarios para realizar las transacciones en las tablas
     //Clase general para los productos
